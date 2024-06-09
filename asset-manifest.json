@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5aab6e1a.css",
-    "main.js": "/static/js/main.6a8767a1.js",
+    "main.css": "/static/css/main.16952309.css",
+    "main.js": "/static/js/main.a09ce467.js",
     "static/js/453.eb609ac3.chunk.js": "/static/js/453.eb609ac3.chunk.js",
-    "static/media/Pinar-VF.woff2": "/static/media/Pinar-VF.7ee435da3af898be09a4.woff2",
+    "static/media/topbar.webp": "/static/media/topbar.5f1ffee4d23edca7ced5.webp",
+    "static/media/Pinar-VF.woff2": "/static/media/Pinar-VF.e1b83813d20cf1114231.woff2",
     "static/media/hero.webp": "/static/media/hero.c732f847f1ffdcda00dd.webp",
     "static/media/Morabba-Regular.woff2": "/static/media/Morabba-Regular.552bcf1baad4b2248ca1.woff2",
     "static/media/Morabba-SemiBold.woff2": "/static/media/Morabba-SemiBold.5859176886b2313f67ae.woff2",
     "static/media/Morabba-Medium.woff2": "/static/media/Morabba-Medium.d5c86b98ded4266c9b00.woff2",
     "static/media/Morabba-Bold.woff2": "/static/media/Morabba-Bold.b6f9bbb0f443c2645587.woff2",
     "index.html": "/index.html",
-    "main.5aab6e1a.css.map": "/static/css/main.5aab6e1a.css.map",
-    "main.6a8767a1.js.map": "/static/js/main.6a8767a1.js.map",
+    "main.16952309.css.map": "/static/css/main.16952309.css.map",
+    "main.a09ce467.js.map": "/static/js/main.a09ce467.js.map",
     "453.eb609ac3.chunk.js.map": "/static/js/453.eb609ac3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aab6e1a.css",
-    "static/js/main.6a8767a1.js"
+    "static/css/main.16952309.css",
+    "static/js/main.a09ce467.js"
   ]
 }
