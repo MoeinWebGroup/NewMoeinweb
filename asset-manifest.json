@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f3d379c2.css",
-    "main.js": "/static/js/main.61e4bc87.js",
+    "main.js": "/static/js/main.310d87fd.js",
     "static/js/453.eb609ac3.chunk.js": "/static/js/453.eb609ac3.chunk.js",
     "static/media/2.gif": "/static/media/2.1e288c06a84f8d31d976.gif",
     "static/media/topbar.webp": "/static/media/topbar.5f1ffee4d23edca7ced5.webp",
@@ -12,11 +12,11 @@
     "static/media/Morabba-Bold.woff2": "/static/media/Morabba-Bold.b6f9bbb0f443c2645587.woff2",
     "index.html": "/index.html",
     "main.f3d379c2.css.map": "/static/css/main.f3d379c2.css.map",
-    "main.61e4bc87.js.map": "/static/js/main.61e4bc87.js.map",
+    "main.310d87fd.js.map": "/static/js/main.310d87fd.js.map",
     "453.eb609ac3.chunk.js.map": "/static/js/453.eb609ac3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3d379c2.css",
-    "static/js/main.61e4bc87.js"
+    "static/js/main.310d87fd.js"
   ]
 }
